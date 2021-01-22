@@ -1,5 +1,6 @@
 # MyPage Generator
  ###### This project is a sample templet for creating new personal page
+ ###### Please visit http://47.89.189.78/
 ### Tool
  ###### Frontend using vue framework and jquery lib
  ###### Backend was written by java to connect mysql db deployed on Alibaba Cloud
